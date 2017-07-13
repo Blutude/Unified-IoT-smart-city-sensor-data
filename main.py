@@ -46,6 +46,7 @@ def connection(address, port, freshDisconnection): # only write timeouts if it j
         isConnected = True
 
     mySocket = make_socket_radar(sock, address, port)
+    mySocket.dict.update({"Connections": [{"DateTime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), "deviceID": mySocket.id}]})
     print("Sock: ({},{}) connected".format(address, port))
     if disconnected_date_time:
         writeTimeouts(mySocket.dict, mySocket.id, disconnected_date_time)
