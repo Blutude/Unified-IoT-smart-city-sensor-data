@@ -96,8 +96,8 @@ def extract(mySocket): # returns true if was interrupted
             sizeLimit = True
 
 
-    with open('test' + mySocket.id + '.json', 'w') as f:
-        json.dump(mySocket.dict, f, sort_keys=True, indent=4)  # , default=json_util.default)
+    #with open('test' + mySocket.id + '.json', 'w') as f:
+        #json.dump(mySocket.dict, f, sort_keys=True, indent=4)  # , default=json_util.default)
     return False # no socket timed out so return False
 
 
