@@ -8,7 +8,6 @@ from SocketWrapper import make_socket_radar
 import multiprocessing
 import datetime
 
-
 def setup(address, port):
     connected = False
     freshDisconnection = True

@@ -9,6 +9,11 @@ import _pickle
 from socket import timeout
 from Constants import Constants
 
+def vdmFormatDict():
+    dict = {"Format":"ODNF1", "Desc":"", "CreateUTC":"",
+            "ExpireUTC": "0000-00-00T00:00:00", "Unit":"", "Status":"", "Value": ""}
+    return dict
+
 def readRadarSocket(sock):
     out = ''
     char = str(sock.recv(1))[2]
@@ -27,7 +32,6 @@ def extractRadar(mySocket): # returns true if was interrupted
     if not mySocket:
         return False
 
-    sizeLimit = False
     while True:
         try:
             out = readRadarSocket(mySocket.sock)
@@ -41,60 +45,65 @@ def extractRadar(mySocket): # returns true if was interrupted
 
         print("Sock: ({},{}), Msg: {}".format(mySocket.ip, mySocket.port, out))
 
-        if mySocket.newBlock:
-            mySocket.dict["Blocks"].extend(mySocket.block)
-            mySocket.block = [
-                {"StartDateTime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), "Counting": [], "Targets": [],
-                 "RDSTA": {}, "RDSTR": {}, "EndDateTime": None}]
-            mySocket.newBlock = False
-
         if out.startswith("$RDTGT"):
             if len(out) > 6: # Target not empty
+                datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
                 t = out.split(',')
                 targets = []
                 for i in range(1, len(t), 3):
                     target = make_target(t[i], t[i + 1], t[i + 2])
                     targets.append(target)
-                d = [{"RDTGT": {"datetime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}}]
-                i = 1
                 for tgt in targets:
-                    d[0]["RDTGT"].update({"D" + str(i): tgt.D, "S" + str(i): tgt.S, "L" + str(i): tgt.L})
-                    i += 1
-                    mySocket.block[0]["Targets"].extend(d)
+                    dict = vdmFormatDict()
+                    dict["Desc"] = "Detected target report"
+                    dict["CreateUTC"] = datetime
+                    dict["Unit"] = "object"
+                    if tgt.D == "1":
+                        dir = "Approaching"
+                    else:
+                        dir = "Receding"
+                    dict["Value"] = {"Direction": dir, "Speed": tgt.S, "Detection level": tgt.L}
+                    mySocket.dict["Blocks"].extend(dict)
 
         elif out.startswith("$RDSTA"):
             s = out.split(',')
-            d = {"datetime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
-            d.update({"count": s[1], "avgSpeed": s[2], "minSpeed": s[3], "maxSpeed": s[4], "roadOCP": s[5],
-                      "tmpCNT": s[6]})#re.match("(.*)\*.*", s[6]).group(1)})
-            mySocket.block[0]["RDSTA"].update(d)
+            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dict = vdmFormatDict()
+            dict["Desc"] = "Approaching target statistics report"
+            dict["CreateUTC"] = datetime
+            dict["Unit"] = "object"
+            dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4], "Road occupation percentage": s[5],
+                      "Temporary counter": s[6]}}
+            mySocket.dict["Blocks"].extend(dict)
 
         elif out.startswith("$RDSTR"):
             s = out.split(',')
-            d = {"datetime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
-            d.update({"count": s[1], "avgSpeed": s[2], "minSpeed": s[3], "maxSpeed": s[4], "roadOCP": s[5],
-                      "tmpCNT": s[6]})#re.match("(.*)\*.*", s[6]).group(1)})
-            mySocket.block[0]["RDSTR"].update(d)
-            mySocket.block[0]["EndDateTime"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-            if sizeLimit:
-                mySocket.dict["Blocks"].extend(mySocket.block)
-                break
-            mySocket.newBlock = True
+            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dict = vdmFormatDict()
+            dict["Desc"] = "Receding target statistics report"
+            dict["CreateUTC"] = datetime
+            dict["Unit"] = "object"
+            dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4],
+                              "Road occupation percentage": s[5],
+                              "Temporary counter": s[6]}}
+            mySocket.dict["Blocks"].extend(dict)
 
         elif out.startswith("$RDCNT"):
             s = out.split(',')
-            d = [{"RDCNT": {"datetime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}}]
-            d[0]["RDCNT"].update({"D": s[1], "S": s[2], "L": s[3], "aprCNT": s[4],
-                                  "rcdCNT": s[5]})#re.match("(.*)\*.*", s[5]).group(1)})
-            mySocket.block[0]["Counting"].extend(d)
+            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dict = vdmFormatDict()
+            dict["Desc"] = "Targets count report"
+            dict["CreateUTC"] = datetime
+            dict["Unit"] = "object"
+            dict["Value"] = {"Direction": s[1], "Speed": s[2], "Detection level": s[3], "Cumulative counter for approaching targets": s[4],
+                              "Cumulative counter for receding targets": s[5]}
+            mySocket.dict["Blocks"].extend(dict)
 
         else:
             raise ValueError("Missed a type of report?")
 
         if sys.getsizeof(_pickle.dumps(mySocket.dict)) > Constants.FILE_SIZE_LIMIT:
-            sizeLimit = True
-
+            break
 
     #with open('test' + mySocket.id + '.json', 'w') as f:
         #json.dump(mySocket.dict, f, sort_keys=True, indent=4)  # , default=json_util.default)
@@ -134,7 +143,7 @@ def extractRFIDLog(mySocket, freshStart): # returns true if was interrupted
     sizeLimit = False
 
     try:
-        uid,time,antennaNb = readSocket(mySocket.sock, freshStart)
+        uid,time,antennaNb = readRFIDSocket(mySocket.sock, freshStart)
     except ConnectionResetError:
         print("Connection to socket was forcibly closed by the remote host.")
         return True
@@ -156,7 +165,7 @@ def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
     #start = time.time()
     #while time.time() - start < 25: # uploads every 25 seconds
     try:
-        uid,myTime,antennaNb = readSocket(mySocket.sock, freshStart)
+        uid,myTime,antennaNb = readRFIDSocket(mySocket.sock, freshStart)
     except ConnectionResetError:
         print("Connection to socket was forcible closed by the remote host.")
         return True
