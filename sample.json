@@ -1,5 +1,76 @@
-{"radarID":"51p01", "Blocks":
-[{
+{ "radarID":"51p01",
+  "Blocks": [
+	{
+		"Format": "ODNF1"
+		"Desc": "Detected target report"
+		"CreateUtc": "2017-06-12 13:25:56"
+		"ExpireUtc": "0000-00-00T00:00:00"
+		"Unit": "object"
+		"Status": ""
+		"Value": {
+			"Direction of target#1": "1",
+			"Speed of target#1": "50",
+			"Detected level of target#1": "55"
+		}
+	},
+	{
+		"Format": "ODNF1"
+		"Desc": "Target count report"
+		"CreateUtc": "2017-06-12 13:25:56"
+		"ExpireUtc": "0000-00-00T00:00:00"
+		"Unit": "object"
+		"Status": ""
+		"Value": {
+			"Direction of target": "-1",
+			"Speed of target": "45",
+			"Detected level of target": "40",
+			"Cumulative counter for approaching targets": "7488"
+			"Cumulative counter for receding targets": "4564"
+		}
+	},
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"Format": "ODNF1"
+		"Desc": "Detected target report"
+		"CreateUtc": "2017-06-12 13:25:56"
+		"ExpireUtc": "0000-00-00T00:00:00"
+		"Unit": "object"
+		"Status": "good"
+		"Value": {
+			"Direction of target#1": "1",
+			"Speed of target#1": "50",
+			"Detected level of target#1": "55"
+		}
+	},
+	{
+		"Format": "ODNF1"
+		"Desc": "Detected target report"
+		"CreateUtc": "2017-06-12 13:25:56"
+		"ExpireUtc": "0000-00-00T00:00:00"
+		"Unit": "object"
+		"Status": "good"
+		"Value": {
+			"Direction of target#1": "1",
+			"Speed of target#1": "50",
+			"Detected level of target#1": "55"
+		}
+	},
+
+
+
+
+
+	{
             "Counting": [],
             "EndDateTime": "2017-06-22 16:21:14",
             "RDSTA": {

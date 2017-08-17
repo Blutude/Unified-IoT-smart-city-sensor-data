@@ -9,12 +9,12 @@ def getCosmosDBClient():
 def getCosmosDBColl_link():
     client = getCosmosDBClient()
 
-    db_id = Constants.RADAR_DATABASE_NAME
+    db_id = Constants.DATABASE_NAME
     db_query = "select * from r where r.id = '{0}'".format(db_id)
     db = list(client.QueryDatabases(db_query))[0]
     db_link = db['_self']
 
-    coll_id = Constants.RADAR_COLL_NAME
+    coll_id = Constants.COLL_NAME
     coll_query = "select * from r where r.id = '{0}'".format(coll_id)
     coll = list(client.QueryCollections(db_link, coll_query))
     if coll:

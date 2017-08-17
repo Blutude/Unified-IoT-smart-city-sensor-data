@@ -9,7 +9,7 @@ import _pickle
 from socket import timeout
 from Constants import Constants
 
-def readSocket(sock):
+def readRadarSocket(sock):
     out = ''
     char = str(sock.recv(1))[2]
     while not char.__eq__('$'):
@@ -23,14 +23,14 @@ def readSocket(sock):
         raise ValueError("Investigate")
     return out
 
-def extract(mySocket): # returns true if was interrupted
+def extractRadar(mySocket): # returns true if was interrupted
     if not mySocket:
         return False
 
     sizeLimit = False
     while True:
         try:
-            out = readSocket(mySocket.sock)
+            out = readRadarSocket(mySocket.sock)
         except timeout:
             print("socket " + mySocket.id + " timed out.")
             return True
@@ -106,3 +106,77 @@ def writeTimeouts(dict, socketID, date_time):
         dict["Timeouts"].append({"DateTime": date_time.strftime("%Y-%m-%d %H:%M:%S"), "deviceID":socketID})
     else:
         dict.update({"Timeouts":[{"DateTime": date_time.strftime("%Y-%m-%d %H:%M:%S"), "deviceID":socketID}]})
+
+
+
+def readRFIDSocket(sock, freshStart):
+    out = ''
+    char = str(sock.recv(1))[2]
+    if freshStart: # skip first sentence to make sure we start reading the sentence from the beginning
+        while not char.__eq__('\\'):
+            char = str(sock.recv(1))[2]
+        char = str(sock.recv(1))[2]
+        char = str(sock.recv(1))[2]
+    while not char.__eq__('\\'):
+        out += char
+        b = str(sock.recv(1))
+        char = b[2]
+    char = str(sock.recv(1))[2] # to get to the end of the sentence and get buffer ready for new sentence
+    s = out.split(",")
+    if len(s) != 3:
+        raise ValueError("Investigate")
+    return (s[0], s[1], s[2])
+
+def extractRFIDLog(mySocket, freshStart): # returns true if was interrupted
+    if not mySocket:
+        return True
+
+    sizeLimit = False
+
+    try:
+        uid,time,antennaNb = readSocket(mySocket.sock, freshStart)
+    except ConnectionResetError:
+        print("Connection to socket was forcibly closed by the remote host.")
+        return True
+
+    mySocket.dict["Blocks"].append({"uid": uid, "time": time, "antennaNb": antennaNb})
+
+    print("uid: " + uid + " - time: " + time + " - antenna#: " + antennaNb)
+
+
+
+    with open('test.json', 'w') as f:
+        json.dump(mySocket.dict, f, sort_keys=True, indent=4)  # , default=json_util.default)
+    return False # no socket timed out so return False
+
+def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
+    if not mySocket:
+        return True
+
+    #start = time.time()
+    #while time.time() - start < 25: # uploads every 25 seconds
+    try:
+        uid,myTime,antennaNb = readSocket(mySocket.sock, freshStart)
+    except ConnectionResetError:
+        print("Connection to socket was forcible closed by the remote host.")
+        return True
+
+    uidFound = False
+    for block in mySocket.dict["Blocks"]:
+        if block["uid"] == uid:
+            uidFound = True
+            if block["state"] == "0":
+                block["state"] = "1"
+            else:
+                block["state"] = "0"
+
+    if not uidFound:
+        mySocket.dict["Blocks"].append({"uid": uid, "state":"0"})
+
+    print("uid: " + uid + " - time: " + myTime + " - antenna#: " + antennaNb)
+
+    return False # no socket timed out so return False
+
+def resetUidStates(mySocket):
+    for block in mySocket.dict["Blocks"]:
+        block["state"] = "0"

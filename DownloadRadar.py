@@ -25,7 +25,7 @@ radarMenu = {"1":"r51p01",
         "3":"r52p01",
         "4":"r52p02",
         "5":"r53p01",
-        "6":"r53p02"
+        "6":"r53p02",
        }
 print("Which radar do you want to get data on?")
 for key in sorted(radarMenu.keys()):
@@ -44,6 +44,6 @@ if not re.match("\d\d\d\d-\d\d-\d\d", dateAns):
 
 # CALLING GRAPH FUNCTION
 radarID = radarMenu[radarAns]
-dict = readAzureBlocks(radarID)
+dict = readDayAzureRadars(radarID, dateAns)
 fileName = graphMenu[graphAns][1](dict, dateAns, radarID)
 print(fileName + " was saved")

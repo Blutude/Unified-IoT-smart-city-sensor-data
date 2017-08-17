@@ -12,14 +12,14 @@ import datetime
 def setup(address, port):
     connected = False
     freshDisconnection = True
-    try:
-        while True:
+    while True:
+        try:
             if not connected:
                 mySocket = connection(address, port, freshDisconnection)
 
             freshDisconnection = True
             connected = True
-            interrupted = extract(mySocket)
+            interrupted = extractRadar(mySocket)
             if interrupted:
                 connected = False
                 freshDisconnection = False # prevents connection method from rewriting the same timeout
@@ -27,10 +27,10 @@ def setup(address, port):
             if mySocket.dict["Blocks"] or interrupted or mySocket.dict["Timeouts"]:
                 writeAzure(mySocket.dict)
             mySocket.resetData() # Clear data for next iteration
-    except:
-        with open('errors.txt', 'a') as f:
-            f.write(sys.exc_info()[0])
-            f.write("\r\n")
+        except Exception as e:
+            with open('errors.txt', 'a') as f:
+                f.write(str(e))
+                f.write("\r\n")
 
 
 def connection(address, port, freshDisconnection): # only write timeouts if it just timed out. Not if it stays timed out.

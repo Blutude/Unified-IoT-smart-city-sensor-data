@@ -10,6 +10,6 @@ class Constants:
     FILE_SIZE_LIMIT = 25000
     URL = ''
     KEY = ''  # primary key
-    RADAR_DATABASE_NAME = 'BCRL-TLN-database'
-    RADAR_COLL_NAME = 'BCRL-TLN-collection'
+    DATABASE_NAME = 'BCRL-TLN-database'
+    COLL_NAME = 'BCRL-TLN-collection'
     ADDRESSES = ['192.168.10.50', '192.168.10.51', '192.168.10.52', '192.168.10.53']

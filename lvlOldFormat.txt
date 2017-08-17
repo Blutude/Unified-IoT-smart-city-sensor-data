@@ -1,0 +1,8082 @@
+{
+  "id": "5ec2ab1b-97db-08b6-85dd-56c290a93c40",
+  "Blocks": [
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "165",
+      "datetime": "2017-07-27T13:58:20",
+      "Level": "28.0",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "164",
+      "datetime": "2017-07-28T13:33:13",
+      "Level": "28.0",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:08:48",
+      "Level": "28.0",
+      "Temperature": "133"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:27:10",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:31:17",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:34:08",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:36:18",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:37:17",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:39:03",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:40:03",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:41:09",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:42:09",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:43:08",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:44:08",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:45:10",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:46:07",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T09:48:33",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:49:33",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:50:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:51:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:52:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:53:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:54:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:55:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:56:52",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:57:53",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T09:58:53",
+      "Level": "28.0",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T09:59:51",
+      "Level": "28.0",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:00:53",
+      "Level": "15.8984375",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:01:51",
+      "Level": "28.0",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:02:51",
+      "Level": "28.0",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:03:51",
+      "Level": "28.0",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:04:51",
+      "Level": "15.8203125",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T10:05:51",
+      "Level": "8.46875",
+      "Temperature": "143"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:06:53",
+      "Level": "15.7265625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:07:51",
+      "Level": "11.015625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:08:51",
+      "Level": "21.40625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:09:51",
+      "Level": "13.3515625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:10:51",
+      "Level": "9.875",
+      "Temperature": "147"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T10:11:50",
+      "Level": "19.109375",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T10:12:53",
+      "Level": "19.171875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:13:53",
+      "Level": "9.953125",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:14:53",
+      "Level": "10.0",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T10:15:51",
+      "Level": "9.3828125",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:16:51",
+      "Level": "8.9609375",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:17:51",
+      "Level": "10.109375",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "169",
+      "datetime": "2017-07-31T10:18:51",
+      "Level": "9.9140625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:19:51",
+      "Level": "5.6875",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:20:51",
+      "Level": "9.7890625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:21:51",
+      "Level": "8.453125",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:22:51",
+      "Level": "10.046875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "162",
+      "datetime": "2017-07-31T10:23:51",
+      "Level": "9.8828125",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "161",
+      "datetime": "2017-07-31T10:24:51",
+      "Level": "9.5234375",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "209",
+      "datetime": "2017-07-31T10:25:50",
+      "Level": "9.4765625",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "209",
+      "datetime": "2017-07-31T10:26:50",
+      "Level": "9.8515625",
+      "Temperature": "143"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:27:50",
+      "Level": "10.203125",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "209",
+      "datetime": "2017-07-31T10:28:51",
+      "Level": "10.0625",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "209",
+      "datetime": "2017-07-31T10:29:51",
+      "Level": "9.875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:30:50",
+      "Level": "9.796875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:31:50",
+      "Level": "9.65625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:32:51",
+      "Level": "10.2578125",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "209",
+      "datetime": "2017-07-31T10:33:51",
+      "Level": "10.0546875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:34:51",
+      "Level": "10.0859375",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:35:51",
+      "Level": "9.46875",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:36:51",
+      "Level": "9.65625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:37:50",
+      "Level": "19.015625",
+      "Temperature": "147"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:38:51",
+      "Level": "9.6640625",
+      "Temperature": "148"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:39:51",
+      "Level": "8.2734375",
+      "Temperature": "149"
+    },
+    {
+      "Voltage": "202",
+      "datetime": "2017-07-31T10:41:16",
+      "Level": "15.390625",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T10:42:34",
+      "Level": "11.4609375",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:43:34",
+      "Level": "8.78125",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:46:06",
+      "Level": "8.25",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:47:07",
+      "Level": "8.2109375",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:48:05",
+      "Level": "8.2734375",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:49:07",
+      "Level": "8.2109375",
+      "Temperature": "151"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:50:05",
+      "Level": "8.015625",
+      "Temperature": "150"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:51:06",
+      "Level": "8.09375",
+      "Temperature": "150"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:52:06",
+      "Level": "8.1015625",
+      "Temperature": "150"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T10:53:06",
+      "Level": "8.3203125",
+      "Temperature": "149"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:54:06",
+      "Level": "8.015625",
+      "Temperature": "149"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:55:07",
+      "Level": "8.078125",
+      "Temperature": "149"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:56:04",
+      "Level": "8.40625",
+      "Temperature": "150"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:57:07",
+      "Level": "8.28125",
+      "Temperature": "148"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T10:58:09",
+      "Level": "8.3359375",
+      "Temperature": "147"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T10:59:05",
+      "Level": "8.265625",
+      "Temperature": "147"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:00:05",
+      "Level": "8.25",
+      "Temperature": "147"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:01:07",
+      "Level": "8.21875",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:02:07",
+      "Level": "8.265625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:03:04",
+      "Level": "8.1640625",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:04:22",
+      "Level": "8.28125",
+      "Temperature": "146"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:05:22",
+      "Level": "8.2734375",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:06:21",
+      "Level": "8.2578125",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:07:21",
+      "Level": "8.265625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:08:40",
+      "Level": "8.2265625",
+      "Temperature": "145"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:09:40",
+      "Level": "8.28125",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:10:39",
+      "Level": "8.1875",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:11:39",
+      "Level": "8.3203125",
+      "Temperature": "144"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:12:39",
+      "Level": "8.171875",
+      "Temperature": "143"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:13:39",
+      "Level": "8.2890625",
+      "Temperature": "143"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:14:38",
+      "Level": "8.34375",
+      "Temperature": "143"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-07-31T11:15:48",
+      "Level": "8.3125",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:16:44",
+      "Level": "8.328125",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:17:44",
+      "Level": "8.296875",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:19:04",
+      "Level": "8.2578125",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:20:05",
+      "Level": "8.3125",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:21:10",
+      "Level": "8.265625",
+      "Temperature": "142"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:22:10",
+      "Level": "8.3359375",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:23:09",
+      "Level": "8.34375",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:24:09",
+      "Level": "8.28125",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:25:09",
+      "Level": "8.2265625",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:26:08",
+      "Level": "8.375",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-07-31T11:27:15",
+      "Level": "8.28125",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:28:17",
+      "Level": "8.3125",
+      "Temperature": "141"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:29:16",
+      "Level": "8.296875",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:30:16",
+      "Level": "8.34375",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:31:16",
+      "Level": "8.3515625",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:32:15",
+      "Level": "8.2890625",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:33:17",
+      "Level": "8.25",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:34:17",
+      "Level": "8.2890625",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:35:16",
+      "Level": "8.2421875",
+      "Temperature": "140"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:36:16",
+      "Level": "8.3125",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:37:15",
+      "Level": "8.2734375",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:38:17",
+      "Level": "8.2734375",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:39:17",
+      "Level": "8.265625",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:40:16",
+      "Level": "8.2578125",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:41:16",
+      "Level": "8.3125",
+      "Temperature": "139"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:42:15",
+      "Level": "8.28125",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:43:17",
+      "Level": "8.3125",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:44:16",
+      "Level": "8.234375",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:45:16",
+      "Level": "8.3125",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:46:17",
+      "Level": "8.2890625",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:47:17",
+      "Level": "8.2421875",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:48:16",
+      "Level": "8.2890625",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:49:16",
+      "Level": "8.28125",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:50:15",
+      "Level": "8.3828125",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:51:17",
+      "Level": "8.2890625",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:52:17",
+      "Level": "8.2890625",
+      "Temperature": "138"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:53:16",
+      "Level": "8.2734375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:54:22",
+      "Level": "8.34375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:55:22",
+      "Level": "8.296875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:56:21",
+      "Level": "8.3359375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:57:23",
+      "Level": "8.3359375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T11:58:23",
+      "Level": "8.3046875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T11:59:22",
+      "Level": "8.3046875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:00:22",
+      "Level": "8.3046875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:01:23",
+      "Level": "8.34375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:02:23",
+      "Level": "8.2890625",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:03:22",
+      "Level": "8.3203125",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:04:22",
+      "Level": "8.3046875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:05:21",
+      "Level": "8.3359375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:06:23",
+      "Level": "8.265625",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:07:22",
+      "Level": "8.3359375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:08:21",
+      "Level": "8.3046875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:09:23",
+      "Level": "8.296875",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:10:23",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:11:23",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:12:21",
+      "Level": "8.359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:13:23",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:14:23",
+      "Level": "8.28125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "208",
+      "datetime": "2017-07-31T12:15:22",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:16:21",
+      "Level": "8.375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:17:23",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:18:23",
+      "Level": "8.3125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:19:22",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:20:21",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:21:23",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:22:22",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:23:22",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:24:24",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:25:21",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:26:23",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:27:22",
+      "Level": "8.28125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:28:22",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:29:38",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:30:38",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:31:37",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:32:39",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:33:38",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:34:38",
+      "Level": "8.28125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:35:37",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:36:56",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:37:55",
+      "Level": "8.3359375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:38:54",
+      "Level": "8.3046875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:39:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:40:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:41:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:42:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:43:56",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:44:55",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:45:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:46:54",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:47:56",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:48:55",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:49:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:50:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:51:56",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:52:56",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:53:55",
+      "Level": "8.3828125",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:54:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:55:56",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:56:55",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T12:57:55",
+      "Level": "8.3671875",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:58:54",
+      "Level": "8.28125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T12:59:56",
+      "Level": "8.3046875",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:00:55",
+      "Level": "8.2890625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:01:55",
+      "Level": "8.3125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:02:54",
+      "Level": "8.375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:03:56",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:04:55",
+      "Level": "8.3125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:05:55",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:06:54",
+      "Level": "8.3125",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:07:56",
+      "Level": "8.3828125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:08:55",
+      "Level": "8.3828125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:09:54",
+      "Level": "8.3125",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:10:56",
+      "Level": "8.3671875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:11:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:12:54",
+      "Level": "8.2890625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:13:54",
+      "Level": "8.3671875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:14:56",
+      "Level": "8.3125",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:15:55",
+      "Level": "8.3984375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:16:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:17:56",
+      "Level": "8.390625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:18:56",
+      "Level": "8.375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:19:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:20:54",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:21:56",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:22:55",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:23:55",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:24:54",
+      "Level": "8.359375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:25:56",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:26:55",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:27:55",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:29:13",
+      "Level": "8.359375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:30:12",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:31:14",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:32:11",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:33:12",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:34:36",
+      "Level": "8.34375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "200",
+      "datetime": "2017-07-31T13:35:35",
+      "Level": "8.296875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:36:37",
+      "Level": "8.296875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:37:36",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:38:36",
+      "Level": "8.3984375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:39:35",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:40:35",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:41:36",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:42:35",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:43:42",
+      "Level": "8.3515625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:44:41",
+      "Level": "8.3671875",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:45:40",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:46:58",
+      "Level": "8.296875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:47:58",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:48:57",
+      "Level": "8.359375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:49:59",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:50:58",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:51:58",
+      "Level": "8.3671875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:52:57",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:53:59",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:54:58",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:55:57",
+      "Level": "8.375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:56:57",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:57:58",
+      "Level": "8.3046875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T13:58:58",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T13:59:57",
+      "Level": "8.40625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:00:57",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:01:59",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:02:58",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:03:57",
+      "Level": "8.296875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:04:57",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:05:59",
+      "Level": "8.296875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:06:58",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:07:57",
+      "Level": "8.4375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:08:59",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "207",
+      "datetime": "2017-07-31T14:09:58",
+      "Level": "8.3046875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:10:58",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:11:57",
+      "Level": "8.3359375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:12:59",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:13:58",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:14:58",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:15:57",
+      "Level": "8.3046875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:16:58",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:17:58",
+      "Level": "8.3046875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:18:57",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:19:59",
+      "Level": "8.390625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:20:58",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:21:58",
+      "Level": "8.34375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:22:57",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:23:59",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:24:58",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:26:15",
+      "Level": "8.3125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:41:15",
+      "Level": "8.3984375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T14:56:13",
+      "Level": "8.3203125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "206",
+      "datetime": "2017-07-31T15:11:14",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "206",
+      "datetime": "2017-07-31T15:26:14",
+      "Level": "8.3046875",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "199",
+      "datetime": "2017-07-31T15:41:15",
+      "Level": "8.3359375",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T10:38:17",
+      "Level": "8.3984375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-08-02T10:53:17",
+      "Level": "8.3671875",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-08-02T11:08:16",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T11:23:17",
+      "Level": "8.3515625",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T11:38:16",
+      "Level": "8.40625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T11:53:18",
+      "Level": "8.390625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-08-02T12:08:17",
+      "Level": "8.4140625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-08-02T12:23:17",
+      "Level": "8.359375",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T13:58:48",
+      "Level": "8.40625",
+      "Temperature": "133"
+    },
+    {
+      "Voltage": "197",
+      "datetime": "2017-08-02T14:13:48",
+      "Level": "8.3828125",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T15:22:25",
+      "Level": "8.375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T15:37:25",
+      "Level": "8.4609375",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T15:52:25",
+      "Level": "8.390625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-02T16:07:25",
+      "Level": "8.3671875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T16:22:25",
+      "Level": "8.375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T16:37:25",
+      "Level": "8.40625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T16:52:24",
+      "Level": "8.3671875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T17:07:25",
+      "Level": "8.3828125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T17:22:26",
+      "Level": "8.328125",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T17:37:27",
+      "Level": "8.3984375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T17:52:25",
+      "Level": "8.421875",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T18:07:26",
+      "Level": "8.40625",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T18:22:25",
+      "Level": "8.3515625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T18:37:26",
+      "Level": "8.3515625",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T18:52:27",
+      "Level": "8.359375",
+      "Temperature": "137"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T19:07:26",
+      "Level": "8.4140625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T19:22:26",
+      "Level": "8.375",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T19:37:25",
+      "Level": "8.40625",
+      "Temperature": "136"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T19:52:26",
+      "Level": "8.421875",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T20:07:26",
+      "Level": "8.4375",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T20:22:26",
+      "Level": "8.4140625",
+      "Temperature": "135"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T20:37:24",
+      "Level": "8.390625",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T20:52:24",
+      "Level": "8.3828125",
+      "Temperature": "134"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T21:07:25",
+      "Level": "8.390625",
+      "Temperature": "133"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T21:22:25",
+      "Level": "8.3828125",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T21:37:25",
+      "Level": "8.390625",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T21:52:25",
+      "Level": "8.3828125",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T22:07:25",
+      "Level": "8.359375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T22:22:25",
+      "Level": "8.359375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T22:37:24",
+      "Level": "8.3125",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T22:52:24",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T23:07:25",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T23:22:26",
+      "Level": "8.3828125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-02T23:37:25",
+      "Level": "8.3671875",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-02T23:52:24",
+      "Level": "8.3359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-03T00:07:25",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-03T00:22:24",
+      "Level": "8.390625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "196",
+      "datetime": "2017-08-03T00:37:25",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T00:52:26",
+      "Level": "8.390625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T01:07:43",
+      "Level": "8.390625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T01:22:41",
+      "Level": "8.390625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T01:37:42",
+      "Level": "8.3828125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T01:52:41",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T02:07:42",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-03T02:22:43",
+      "Level": "8.40625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T02:37:42",
+      "Level": "8.390625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T02:52:43",
+      "Level": "8.4140625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T03:07:43",
+      "Level": "8.390625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T03:22:43",
+      "Level": "8.390625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T03:37:42",
+      "Level": "8.4140625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T03:52:49",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T04:07:41",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T04:22:42",
+      "Level": "8.40625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T04:37:43",
+      "Level": "8.4140625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T04:52:43",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T05:07:42",
+      "Level": "8.3984375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T05:22:42",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T05:37:42",
+      "Level": "8.40625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T05:52:49",
+      "Level": "8.40625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T06:07:48",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T06:23:12",
+      "Level": "8.40625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T06:38:12",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T06:53:13",
+      "Level": "8.3828125",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T07:08:13",
+      "Level": "8.3828125",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T07:23:29",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T07:38:30",
+      "Level": "8.3984375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T07:53:30",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T08:08:30",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T08:23:29",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T08:38:29",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T08:53:30",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "195",
+      "datetime": "2017-08-03T09:08:30",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T09:23:30",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T09:38:28",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T09:53:28",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T10:08:28",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T10:23:28",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T10:38:29",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T10:53:31",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-03T11:08:30",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T11:23:47",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T11:38:53",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T11:53:53",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T12:08:54",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T12:23:53",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T12:39:10",
+      "Level": "8.3203125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T12:54:10",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T13:09:10",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T13:24:09",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T13:39:27",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T13:54:26",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T14:09:44",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T14:24:43",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T14:40:01",
+      "Level": "8.3671875",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T14:55:00",
+      "Level": "8.34375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T15:09:59",
+      "Level": "8.34375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T15:25:16",
+      "Level": "8.3359375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T15:40:35",
+      "Level": "8.3203125",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T15:55:34",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-03T16:10:39",
+      "Level": "8.3515625",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T16:25:41",
+      "Level": "8.421875",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T16:40:41",
+      "Level": "8.375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T16:55:40",
+      "Level": "8.3828125",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T17:10:39",
+      "Level": "8.3828125",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T17:25:39",
+      "Level": "8.4375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T17:40:41",
+      "Level": "8.375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T17:55:41",
+      "Level": "8.421875",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T18:10:40",
+      "Level": "8.421875",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T18:25:40",
+      "Level": "8.40625",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T18:40:40",
+      "Level": "8.3984375",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T18:55:40",
+      "Level": "8.4453125",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T19:10:58",
+      "Level": "8.3828125",
+      "Temperature": "132"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T19:25:58",
+      "Level": "8.421875",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T19:40:56",
+      "Level": "8.421875",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T19:55:57",
+      "Level": "8.46875",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T20:10:57",
+      "Level": "8.390625",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "194",
+      "datetime": "2017-08-03T20:25:57",
+      "Level": "8.375",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T20:40:57",
+      "Level": "8.3828125",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T20:55:57",
+      "Level": "8.4140625",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T21:10:56",
+      "Level": "8.4296875",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T21:25:57",
+      "Level": "8.4140625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T21:40:57",
+      "Level": "8.375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-03T21:56:15",
+      "Level": "8.40625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-03T22:11:14",
+      "Level": "8.3359375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T22:26:13",
+      "Level": "8.328125",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T22:41:15",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-03T22:56:14",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T23:11:14",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-03T23:26:13",
+      "Level": "8.3203125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-03T23:41:14",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-03T23:56:13",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T00:11:31",
+      "Level": "8.3203125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T00:26:29",
+      "Level": "8.3359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T00:41:31",
+      "Level": "8.328125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T00:56:30",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T01:11:30",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T01:26:29",
+      "Level": "8.328125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T01:41:30",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T01:56:47",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T02:11:46",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T02:26:47",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T02:41:48",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T02:56:47",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T03:11:48",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T03:26:47",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T03:41:48",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T03:56:47",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T04:11:47",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T04:26:48",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T04:41:47",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T04:57:06",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T05:12:07",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T05:27:06",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T05:42:05",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T05:57:06",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T06:12:05",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T06:27:06",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T06:42:07",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T06:57:06",
+      "Level": "8.3359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T07:12:06",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T07:27:07",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T07:42:06",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T07:57:06",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T08:12:05",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T08:27:05",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T08:42:06",
+      "Level": "8.3359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T08:57:06",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T09:12:08",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T09:27:09",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-04T09:42:07",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "193",
+      "datetime": "2017-08-04T10:35:51",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T13:49:48",
+      "Level": "8.3828125",
+      "Temperature": "131"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T14:04:48",
+      "Level": "8.4375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T14:19:48",
+      "Level": "8.3984375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T14:34:47",
+      "Level": "8.4375",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T14:49:47",
+      "Level": "8.390625",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T15:04:47",
+      "Level": "8.3828125",
+      "Temperature": "130"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T15:19:47",
+      "Level": "8.359375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T15:34:46",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T15:49:48",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T16:04:47",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T16:19:47",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T16:34:48",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T16:49:47",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T17:04:47",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T17:19:48",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T17:34:47",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T17:50:05",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T18:05:04",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T18:20:04",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T18:35:03",
+      "Level": "8.3515625",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T18:50:05",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T19:05:04",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T19:20:04",
+      "Level": "8.3046875",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T19:39:06",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T19:54:06",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T20:09:06",
+      "Level": "8.3515625",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T20:24:06",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T20:39:06",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T20:54:06",
+      "Level": "8.34375",
+      "Temperature": "129"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T21:09:06",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T21:24:06",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T21:39:06",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T21:54:06",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T22:09:30",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T22:24:29",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T22:39:29",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T22:54:29",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T23:09:28",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-04T23:24:28",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T23:39:28",
+      "Level": "8.3984375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-04T23:54:30",
+      "Level": "8.40625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T00:09:29",
+      "Level": "8.34375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T00:24:29",
+      "Level": "8.34375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T00:39:47",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T00:54:46",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T01:09:46",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T01:24:45",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T01:39:45",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T01:55:03",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T02:10:21",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T02:25:20",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T02:40:20",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T02:55:21",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T03:10:20",
+      "Level": "8.328125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T03:25:38",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T03:40:38",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T03:55:55",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T04:10:54",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T04:25:55",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T04:40:54",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T04:55:53",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T05:10:55",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T05:25:54",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T05:40:53",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T05:55:54",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T06:10:55",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T06:25:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T06:40:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T06:55:54",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T07:10:53",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T07:25:55",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T07:40:54",
+      "Level": "8.3359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T07:55:55",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T08:10:54",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T08:26:12",
+      "Level": "8.328125",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T08:41:18",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T08:56:17",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T09:11:18",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T09:26:17",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T09:41:18",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T09:56:17",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T10:11:18",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T10:26:25",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T10:41:24",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T10:56:25",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T11:11:26",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "192",
+      "datetime": "2017-08-05T11:26:24",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T11:41:25",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T11:56:42",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T12:11:41",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-05T12:26:42",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T09:20:25",
+      "Level": "8.375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T09:35:24",
+      "Level": "8.375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T09:50:26",
+      "Level": "8.375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T10:05:27",
+      "Level": "8.3359375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T10:20:42",
+      "Level": "8.3671875",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T10:35:41",
+      "Level": "8.3828125",
+      "Temperature": "116"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T10:50:43",
+      "Level": "8.3828125",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T11:05:42",
+      "Level": "8.375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T11:20:41",
+      "Level": "8.3671875",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T11:35:43",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T11:50:42",
+      "Level": "8.3671875",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T11:53:07",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T11:53:55",
+      "Level": "8.3984375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T11:58:21",
+      "Level": "8.40625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T12:00:52",
+      "Level": "8.40625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T12:15:53",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T12:30:54",
+      "Level": "8.4140625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T12:45:54",
+      "Level": "8.359375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T13:00:53",
+      "Level": "8.3828125",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T13:15:53",
+      "Level": "8.3984375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T13:30:52",
+      "Level": "8.3984375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T13:45:52",
+      "Level": "8.40625",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "190",
+      "datetime": "2017-08-07T14:00:51",
+      "Level": "8.4140625",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T14:15:53",
+      "Level": "8.3515625",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T14:30:53",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T14:46:10",
+      "Level": "8.359375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T15:01:09",
+      "Level": "8.390625",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T15:16:09",
+      "Level": "8.40625",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T15:31:09",
+      "Level": "8.3984375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T15:46:09",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T16:01:09",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T16:16:10",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T16:31:27",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T16:46:26",
+      "Level": "8.3984375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T17:01:26",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T17:16:28",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T17:31:28",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T17:46:28",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T18:01:26",
+      "Level": "8.3984375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T18:16:26",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T18:31:26",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T18:46:26",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T19:01:26",
+      "Level": "8.390625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T19:16:26",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T19:31:25",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T19:46:26",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T20:01:26",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T20:16:27",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-07T20:31:27",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T20:46:26",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T21:01:27",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T21:16:27",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T21:31:27",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T21:46:27",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T22:01:26",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T22:16:26",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T22:31:26",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T22:46:26",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T23:01:26",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T23:16:27",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-07T23:31:27",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-07T23:46:27",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T00:01:27",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T00:16:27",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T00:31:28",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T00:46:44",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T01:01:44",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T01:16:44",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T01:31:44",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T01:46:44",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T02:01:42",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T02:16:43",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T02:31:43",
+      "Level": "8.390625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T02:46:44",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T03:01:42",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T03:16:43",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T03:31:43",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T03:46:42",
+      "Level": "8.390625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T04:01:42",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T04:16:44",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T04:31:44",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T04:46:44",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T05:01:45",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T05:16:44",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T05:31:44",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T05:46:44",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T06:01:44",
+      "Level": "8.390625",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T06:16:44",
+      "Level": "8.3828125",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T06:31:44",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T06:46:44",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T07:01:44",
+      "Level": "8.359375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T07:16:43",
+      "Level": "8.375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T07:31:43",
+      "Level": "8.359375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T07:46:42",
+      "Level": "8.3671875",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T08:01:44",
+      "Level": "8.375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T08:16:44",
+      "Level": "8.3828125",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T08:31:44",
+      "Level": "8.3671875",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T08:46:43",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T09:01:44",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T09:16:44",
+      "Level": "8.3828125",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T09:31:43",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T09:46:44",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T10:01:43",
+      "Level": "8.3828125",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T10:16:42",
+      "Level": "8.3828125",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T10:31:44",
+      "Level": "8.375",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T10:46:44",
+      "Level": "8.390625",
+      "Temperature": "117"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T11:01:43",
+      "Level": "8.390625",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T11:16:43",
+      "Level": "8.3984375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T11:31:42",
+      "Level": "8.3671875",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T11:47:00",
+      "Level": "8.3984375",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T12:02:00",
+      "Level": "8.3828125",
+      "Temperature": "118"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T12:16:59",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T12:31:59",
+      "Level": "8.390625",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "189",
+      "datetime": "2017-08-08T12:47:00",
+      "Level": "8.3984375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T13:02:00",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T21:50:29",
+      "Level": "8.34375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T22:05:27",
+      "Level": "8.34375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T22:20:31",
+      "Level": "8.3515625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T22:35:31",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-08T22:50:28",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-08T23:05:28",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-08T23:20:29",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-08T23:35:28",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-08T23:50:29",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T00:05:27",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T00:20:34",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-09T00:35:34",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-09T00:50:33",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T01:05:34",
+      "Level": "8.34375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-09T01:20:34",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T01:35:34",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-09T01:50:34",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T02:05:34",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T02:20:34",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T02:35:34",
+      "Level": "8.40625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "182",
+      "datetime": "2017-08-09T02:50:34",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T03:05:34",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T03:20:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T03:35:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T03:50:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T04:05:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T04:20:51",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T04:35:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T04:50:51",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T05:05:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T05:20:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T05:35:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T05:50:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T06:05:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T06:20:51",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T06:36:15",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T06:51:14",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T07:06:14",
+      "Level": "8.34375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T07:21:16",
+      "Level": "8.3984375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T07:36:14",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T07:51:15",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T08:06:15",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T08:21:15",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T08:36:14",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T08:51:15",
+      "Level": "8.375",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T09:06:15",
+      "Level": "8.3828125",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T09:21:15",
+      "Level": "8.3671875",
+      "Temperature": "119"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T09:36:13",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T09:51:15",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T10:06:15",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T10:21:15",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T10:36:15",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T10:51:15",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T11:06:15",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T11:21:15",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T11:36:14",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T11:51:15",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T12:06:15",
+      "Level": "8.40625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T12:21:15",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T12:36:15",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T12:51:14",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T13:06:13",
+      "Level": "8.328125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T13:21:13",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T13:36:13",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T13:51:14",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T14:06:14",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T14:21:16",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T14:36:14",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T14:51:14",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T15:06:15",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T15:21:15",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T15:36:13",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T15:51:14",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "188",
+      "datetime": "2017-08-09T16:06:15",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-09T16:21:15",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T05:24:32",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T05:39:32",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T05:54:32",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T06:09:32",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T06:24:32",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T06:39:32",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T06:54:32",
+      "Level": "8.34375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T07:09:32",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T07:24:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T07:39:32",
+      "Level": "8.34375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T07:54:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T08:09:32",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T08:24:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T08:39:32",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T08:54:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T09:09:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T09:24:33",
+      "Level": "8.3515625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T09:39:33",
+      "Level": "8.3984375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T09:54:32",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T10:09:32",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T10:24:31",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T10:39:32",
+      "Level": "8.3671875",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T10:54:32",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T11:09:34",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T11:24:33",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T11:39:32",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T11:54:32",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T12:09:32",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T12:24:32",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T12:39:32",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T12:54:33",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T13:09:33",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T13:24:33",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T13:39:33",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T13:54:33",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T14:09:33",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T14:24:33",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T14:39:33",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T14:54:33",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T15:09:32",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T15:24:32",
+      "Level": "8.390625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T15:39:33",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T15:54:34",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T16:09:32",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T16:24:34",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T16:39:33",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T16:55:00",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T17:10:00",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T17:24:59",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T17:40:00",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T17:55:00",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T18:09:59",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T18:25:00",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "181",
+      "datetime": "2017-08-10T18:40:38",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T18:55:39",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T19:10:39",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T19:25:40",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T19:40:39",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T19:55:38",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T20:10:38",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "175",
+      "datetime": "2017-08-10T20:25:55",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T20:40:55",
+      "Level": "8.390625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T20:55:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T21:10:55",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T21:25:55",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T21:40:56",
+      "Level": "8.3984375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T21:55:55",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T22:10:54",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T22:25:55",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T22:40:54",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T22:55:55",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T23:10:54",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T23:25:55",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-10T23:40:56",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-10T23:55:54",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T00:10:55",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-11T00:25:54",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T00:40:55",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T00:55:54",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T01:10:54",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T01:25:55",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-11T01:40:54",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-11T01:55:54",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T02:10:55",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T02:25:56",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T02:40:54",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T02:55:55",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-11T03:10:55",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T03:25:54",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "187",
+      "datetime": "2017-08-11T03:40:55",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T03:55:54",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T04:10:55",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T04:25:56",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T04:40:54",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T04:56:23",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T05:11:23",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T05:26:22",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T05:41:23",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T05:56:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T06:11:23",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T06:26:21",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T06:41:21",
+      "Level": "8.3515625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T06:56:22",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T07:11:22",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T07:26:23",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T07:41:23",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T07:56:23",
+      "Level": "8.359375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T08:11:23",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "180",
+      "datetime": "2017-08-11T08:26:23",
+      "Level": "8.390625",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T08:41:21",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T08:56:21",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T09:11:22",
+      "Level": "8.375",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T09:26:22",
+      "Level": "8.3828125",
+      "Temperature": "120"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T09:41:24",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T09:56:22",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T10:11:22",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T10:26:23",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T10:41:23",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T10:56:23",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T11:11:23",
+      "Level": "8.3828125",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T11:26:22",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T11:41:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T11:56:22",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T12:11:23",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T12:26:21",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T12:41:22",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T12:56:22",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T13:11:23",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T13:26:40",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T13:41:39",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T13:56:40",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T14:11:38",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T14:26:40",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T14:41:39",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T14:56:38",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T15:11:40",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T15:26:39",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T15:41:40",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T15:56:39",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T16:11:57",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T16:26:56",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T16:42:13",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T16:57:12",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T17:12:12",
+      "Level": "8.3828125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T17:27:13",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T17:42:18",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T17:57:13",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T18:12:13",
+      "Level": "8.34375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T18:27:12",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T18:42:12",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T18:57:13",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T19:12:12",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T19:27:12",
+      "Level": "8.3515625",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T19:42:13",
+      "Level": "8.3671875",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T19:57:13",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T20:12:12",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T20:27:14",
+      "Level": "8.375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T20:42:13",
+      "Level": "8.3671875",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T20:57:12",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T21:12:13",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T21:27:14",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T21:42:13",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T21:57:12",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T22:12:13",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T22:27:12",
+      "Level": "8.359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T22:42:14",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T22:57:13",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T23:12:12",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T23:27:14",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-11T23:42:13",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-11T23:57:14",
+      "Level": "8.3515625",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T00:12:13",
+      "Level": "8.40625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T00:27:12",
+      "Level": "8.3984375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T00:42:13",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T00:57:12",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T01:12:14",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T01:27:13",
+      "Level": "8.3984375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T01:42:13",
+      "Level": "8.3828125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T01:57:14",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T02:12:13",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T02:27:14",
+      "Level": "8.390625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T02:42:12",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T02:57:13",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T03:12:12",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T03:27:13",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T03:42:13",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T03:57:12",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T04:12:13",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T04:27:12",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T04:42:13",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T04:57:14",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T05:12:12",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T05:27:13",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T05:42:13",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T05:57:12",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T06:12:12",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T06:27:13",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T06:42:30",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T06:57:30",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T07:12:30",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T07:27:30",
+      "Level": "8.40625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T07:42:29",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T07:57:30",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T08:12:31",
+      "Level": "8.40625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T08:27:29",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T08:42:30",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T08:57:29",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "186",
+      "datetime": "2017-08-12T09:12:30",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T09:27:31",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T09:42:29",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T09:57:29",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T10:12:30",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T10:27:31",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T10:42:29",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T10:57:29",
+      "Level": "8.3828125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T11:12:29",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T11:27:30",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "179",
+      "datetime": "2017-08-12T11:42:31",
+      "Level": "8.3984375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T11:57:31",
+      "Level": "8.390625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T12:12:29",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T12:27:30",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T12:42:31",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T12:57:29",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T13:12:30",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T13:27:30",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T13:42:31",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T13:57:30",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T14:12:30",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T14:27:29",
+      "Level": "8.390625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T14:42:30",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T14:57:30",
+      "Level": "8.390625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T15:12:29",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T15:27:30",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T15:42:30",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T15:57:31",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T16:12:29",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T16:27:30",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T16:42:29",
+      "Level": "8.3828125",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T16:57:31",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T17:12:30",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T17:27:31",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T17:42:30",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T17:57:29",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T18:12:30",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T18:27:29",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T18:42:31",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T18:57:30",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T19:12:31",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T19:27:29",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T19:42:30",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T19:57:31",
+      "Level": "8.375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T20:12:29",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T20:27:30",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T20:42:47",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T20:57:48",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T21:12:47",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T21:27:48",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T21:42:46",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T21:57:47",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-12T22:12:46",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T22:27:47",
+      "Level": "8.375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T22:42:47",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T22:57:47",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T23:12:47",
+      "Level": "8.390625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T23:27:47",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T23:42:47",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-12T23:57:47",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T00:12:48",
+      "Level": "8.3984375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T00:28:04",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T00:43:05",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T00:58:05",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T01:13:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T01:28:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T01:43:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T01:58:21",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T02:13:22",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T02:28:22",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T02:43:22",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T02:58:22",
+      "Level": "8.328125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T03:13:21",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T03:28:21",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T03:43:22",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T03:58:38",
+      "Level": "8.3828125",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T04:13:39",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T04:28:56",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T04:43:56",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T04:58:55",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T05:13:55",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T05:28:55",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T05:43:55",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T05:58:56",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T06:13:56",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "185",
+      "datetime": "2017-08-13T06:28:56",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T06:43:56",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T06:58:56",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T07:13:56",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T07:29:12",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T07:44:12",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T07:59:12",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T08:14:12",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T08:29:12",
+      "Level": "8.3828125",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T08:44:12",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T08:59:12",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T09:14:12",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T09:29:11",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T09:44:11",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "178",
+      "datetime": "2017-08-13T09:59:11",
+      "Level": "8.390625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T10:14:29",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T10:29:36",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T10:44:36",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T10:59:36",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T11:14:36",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T11:29:36",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T11:44:34",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T11:59:34",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T12:14:36",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T12:29:36",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T12:44:36",
+      "Level": "8.375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T12:59:36",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T13:14:55",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T13:29:55",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T13:44:55",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T13:59:55",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T14:14:55",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T14:29:55",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T14:44:55",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T14:59:55",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T15:14:55",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T15:29:56",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T15:44:54",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T15:59:55",
+      "Level": "8.3359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T16:14:53",
+      "Level": "8.3359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T16:29:54",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T16:44:54",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T16:59:55",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T17:14:56",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T17:29:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T17:44:55",
+      "Level": "8.328125",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T17:59:56",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T18:14:54",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T18:29:55",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T18:44:53",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T18:59:54",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T19:14:54",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T19:29:56",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T19:44:55",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T19:59:54",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T20:14:56",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T20:29:55",
+      "Level": "8.375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T20:44:54",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T20:59:53",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T21:14:54",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T21:29:55",
+      "Level": "8.375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T21:44:55",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T21:59:56",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T22:14:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T22:29:55",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T22:44:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T22:59:55",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-13T23:14:55",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T23:30:01",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-13T23:45:00",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T00:00:01",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T00:15:18",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T00:30:17",
+      "Level": "8.3828125",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T00:45:18",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T01:00:18",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T01:15:17",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T01:30:17",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T01:45:20",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T02:00:18",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T02:15:17",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T02:30:17",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T02:45:18",
+      "Level": "8.390625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T03:00:17",
+      "Level": "8.3515625",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T03:15:17",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T03:30:18",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T03:45:18",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T04:00:17",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T04:15:17",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T04:30:18",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T04:45:18",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T05:00:17",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T05:15:17",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T05:30:18",
+      "Level": "8.3359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T05:45:18",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T06:00:18",
+      "Level": "8.3359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T06:15:18",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T06:30:18",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T06:45:18",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T07:00:18",
+      "Level": "8.34375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T07:15:18",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T07:30:18",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T07:45:18",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T08:00:18",
+      "Level": "8.390625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T08:15:18",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T08:30:18",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T08:45:18",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T09:00:17",
+      "Level": "8.359375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "184",
+      "datetime": "2017-08-14T09:15:17",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T09:30:17",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T09:45:16",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T10:00:19",
+      "Level": "8.375",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T10:15:19",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T10:30:19",
+      "Level": "8.359375",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "177",
+      "datetime": "2017-08-14T10:45:18",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T11:00:18",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T11:15:18",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T11:30:17",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T11:45:17",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T12:00:20",
+      "Level": "8.3671875",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T12:15:35",
+      "Level": "8.359375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T12:30:35",
+      "Level": "8.3359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T12:45:51",
+      "Level": "8.375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T13:00:51",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T13:15:51",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T13:30:50",
+      "Level": "8.359375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T13:45:51",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T14:00:50",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T14:15:51",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T14:31:08",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T14:46:13",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T15:01:14",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "170",
+      "datetime": "2017-08-14T15:16:23",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T15:31:20",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T15:46:19",
+      "Level": "8.328125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T16:01:20",
+      "Level": "8.3359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T16:16:18",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T16:31:18",
+      "Level": "8.3203125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T16:46:19",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T17:01:20",
+      "Level": "8.359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T17:16:19",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T17:31:20",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T17:46:19",
+      "Level": "8.3203125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T18:01:37",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T18:16:36",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T18:31:35",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T18:46:35",
+      "Level": "8.3359375",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T19:01:36",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T19:16:36",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T19:31:35",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T19:46:36",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T20:01:35",
+      "Level": "8.328125",
+      "Temperature": "128"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T20:16:37",
+      "Level": "8.3359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T20:31:36",
+      "Level": "8.375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T20:46:37",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T21:01:35",
+      "Level": "8.34375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T21:16:36",
+      "Level": "8.3359375",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T21:31:53",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T21:46:53",
+      "Level": "8.3125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T22:01:52",
+      "Level": "8.328125",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T22:16:52",
+      "Level": "8.3671875",
+      "Temperature": "127"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T22:31:53",
+      "Level": "8.359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T22:46:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T23:01:53",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-14T23:16:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T23:31:53",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-14T23:46:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T00:01:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T00:16:53",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T00:31:54",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T00:46:52",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T01:01:53",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T01:16:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T01:31:53",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T01:46:53",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T02:01:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T02:16:52",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T02:31:52",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T02:46:53",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T03:01:52",
+      "Level": "8.3359375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T03:16:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T03:31:53",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T03:46:54",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T04:01:52",
+      "Level": "8.3515625",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T04:16:53",
+      "Level": "8.3671875",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T04:31:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T04:46:52",
+      "Level": "8.34375",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T05:01:52",
+      "Level": "8.359375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T05:16:53",
+      "Level": "8.3671875",
+      "Temperature": "126"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T05:31:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T05:46:54",
+      "Level": "8.3515625",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T06:01:52",
+      "Level": "8.34375",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T06:16:53",
+      "Level": "8.328125",
+      "Temperature": "125"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T06:32:00",
+      "Level": "8.3671875",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T06:46:59",
+      "Level": "8.34375",
+      "Temperature": "124"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T07:01:59",
+      "Level": "8.3515625",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T07:16:59",
+      "Level": "8.34375",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T07:32:00",
+      "Level": "8.328125",
+      "Temperature": "123"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T07:46:58",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T08:01:59",
+      "Level": "8.3671875",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T08:16:59",
+      "Level": "8.3515625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T08:32:00",
+      "Level": "8.3515625",
+      "Temperature": "122"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T08:47:00",
+      "Level": "8.3515625",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "176",
+      "datetime": "2017-08-15T09:02:00",
+      "Level": "8.3671875",
+      "Temperature": "121"
+    },
+    {
+      "Voltage": "183",
+      "datetime": "2017-08-15T09:17:16",
+      "Level": "8.359375",
+      "Temperature": "121"
+    }
+  ],
+  "deviceID": "lvl01p02"
+}

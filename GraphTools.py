@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import re
+from operator import itemgetter
+import datetime as dt
 
 def speedHistogram(dict, date, deviceID):
     speeds = [0,0,0,0,0,0,0,0,0,0,0,0,0] # 0-10, 10-20, 20-30, ..., 110-120, 120+
@@ -91,4 +93,79 @@ def timeOfDayHistogram(dict, date, deviceID):
     plt.legend((p1[0], p2[0]), ('Approaching vehicles', 'Receding vehicles'))
     fileName = 'timeOfDay-' + deviceID+ '.png'
     plt.savefig(fileName)
+    return fileName
+
+def airTempGraph(dict, date):
+    sortedDict = sorted(dict, key=itemgetter('datetime'))
+
+    datetimes = []
+    for block in sortedDict:
+        datetimes.append(block["datetime"])
+    times_list = [dt.datetime.strptime(date, '%Y-%m-%dT%H:%M:%S').time() for date in datetimes]
+
+    airTempValues = []
+    for block in sortedDict:
+        airTempValues.append(block["Air Temp"])
+
+    plt.figure(figsize=(20, 10))
+    plt.title("Air Temperature - " +date)
+    plt.xlabel("Time")
+    plt.ylabel("Temperature (°C)")
+
+    plt.plot(times_list, airTempValues)
+    plt.gcf().autofmt_xdate()
+
+    fileName = 'Air Temperature - ' + date + '.png'
+    plt.savefig(fileName)
+    plt.show()
+    return fileName
+
+def roadTempGraph(dict, date):
+    sortedDict = sorted(dict, key=itemgetter('datetime'))
+
+    datetimes = []
+    for block in sortedDict:
+        datetimes.append(block["datetime"])
+    times_list = [dt.datetime.strptime(date, '%Y-%m-%dT%H:%M:%S').time() for date in datetimes]
+
+    roadTempValues = []
+    for block in sortedDict:
+        roadTempValues.append(block["Road Temp"])
+
+    plt.figure(figsize=(20, 10))
+    plt.title("Road Temperature - " + date)
+    plt.xlabel("Time")
+    plt.ylabel("Temperature (°C)")
+
+    plt.plot(times_list, roadTempValues)
+    plt.gcf().autofmt_xdate()
+
+    fileName = 'Road Temperature - ' + date + '.png'
+    plt.savefig(fileName)
+    plt.show()
+    return fileName
+
+def levelGraph(dict, date):
+    sortedDict = sorted(dict, key=itemgetter('datetime'))
+
+    datetimes = []
+    for block in sortedDict:
+        datetimes.append(block["datetime"])
+    times_list = [dt.datetime.strptime(date, '%Y-%m-%dT%H:%M:%S').time() for date in datetimes]
+
+    airTempValues = []
+    for block in sortedDict:
+        airTempValues.append(block["Level"])
+
+    plt.figure(figsize=(20, 10))
+    plt.title("Ultra Sound Salt Level - " + date)
+    plt.xlabel("Time")
+    plt.ylabel("Level (in)")
+
+    plt.plot(times_list, airTempValues)
+    plt.gcf().autofmt_xdate()
+
+    fileName = 'Ultra Sound Salt Level - ' + date + '.png'
+    plt.savefig(fileName)
+    plt.show()
     return fileName
