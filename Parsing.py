@@ -134,7 +134,7 @@ def extractRFIDLog(mySocket, freshStart): # returns true if was interrupted
     sizeLimit = False
 
     try:
-        uid,time,antennaNb = readSocket(mySocket.sock, freshStart)
+        uid,time,antennaNb = readRFIDSocket(mySocket.sock, freshStart)
     except ConnectionResetError:
         print("Connection to socket was forcibly closed by the remote host.")
         return True
@@ -156,7 +156,7 @@ def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
     #start = time.time()
     #while time.time() - start < 25: # uploads every 25 seconds
     try:
-        uid,myTime,antennaNb = readSocket(mySocket.sock, freshStart)
+        uid,myTime,antennaNb = readRFIDSocket(mySocket.sock, freshStart)
     except ConnectionResetError:
         print("Connection to socket was forcible closed by the remote host.")
         return True
