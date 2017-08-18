@@ -54,11 +54,18 @@ if __name__ == "__main__":
                     range = out[-6:-4]
                     temperature = out[-4]
                     voltage = out[-3]
+
                     rangeValue = ord(range[1])*16**2+ord(range[0])
                     rangeValue /= 128
                     levelValue = 28 - rangeValue
+
                     temperatureValue = ord(temperature)
+                    temperatureValue *= 0.587085
+                    temperatureValue -= 50
+
                     voltageValue = ord(voltage)
+                    voltageValue -= 14
+                    voltageValue /= 40
 
                     dict = vdmFormatDict()
                     dict["Desc"] = "Ultrasonic level sensor data"
