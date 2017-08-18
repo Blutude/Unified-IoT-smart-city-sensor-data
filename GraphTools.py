@@ -11,7 +11,7 @@ def speedHistogram(dict, date, deviceID):
     for block in dict:
         if block["Counting"]:
             for vehicle in block["Counting"]:
-                speed = float(vehicle["RDCNT"]["S"])
+                speed = float(vehicle["RDCNT"]["S"])/10
                 if speed < 10:
                     speeds[0]+=1
                 elif speed < 20:
