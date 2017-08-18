@@ -9,7 +9,7 @@ def speedHistogram(dict, date, deviceID):
     speeds = [0,0,0,0,0,0,0,0,0,0,0,0,0] # 0-10, 10-20, 20-30, ..., 110-120, 120+
 
     for block in dict: # Targets count report
-        speed = float(block["Value"]["Speed"])
+        speed = float(block["Value"]["Speed"])/10
         if speed < 10:
             speeds[0]+=1
         elif speed < 20:
