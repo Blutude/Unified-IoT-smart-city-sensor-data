@@ -4,6 +4,7 @@ import time
 import re
 import datetime
 import sys
+from Parsing import vdmFormatDict
 
 if __name__ == "__main__":
     HOST = ''  # Symbolic name, meaning all available interfaces
@@ -39,7 +40,7 @@ if __name__ == "__main__":
             regexBadFormatPattern = ".*%Q.*"
             while 1:
                 start = time.time()
-                dict, doc_link = readAzureTempDict()
+                doc, doc_link = readAzureTempDict()
                 regexMatch = ""
                 regexBadFormatMatch = ""
                 while not regexMatch:
@@ -50,14 +51,19 @@ if __name__ == "__main__":
                     regexBadFormatMatch = re.match(regexBadFormatPattern, str(data))
                     if regexBadFormatMatch:
                         conn.send(bytes.fromhex('0323'))
+                dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
                 airTemp = regexMatch.group(1)
                 roadTemp = regexMatch.group(2)
-                dateTimeStamp = datetime.datetime.now()
-                block = {"Air Temp": airTemp, "Road Temp": roadTemp, "datetime": dateTimeStamp.strftime("%Y-%m-%dT%H:%M:%S")}
-                for x in block:
-                    print(x+": "+block[x])
-                dict["Blocks"].append(block)
-                replaceAzureDict(dict, doc_link)
+
+                dict = vdmFormatDict()
+                dict["Desc"] = "Temperature sensor data"
+                dict["CreateUtc"] = dateTimeStamp
+                dict["Unit"] = "object"
+                dict["Value"] = {"Air Temp": airTemp, "Road Temp": roadTemp}
+                print(dict)
+
+                doc["Blocks"].extend(dict)
+                replaceAzureDict(doc, doc_link)
                 while time.time() - start < 900: # get data every 15 minutes = 900 seconds
                     pass
         except Exception as e: # goes back to accepting a connection phase

@@ -3,6 +3,7 @@ from IO_Azure import *
 import time
 import datetime
 import sys
+from Parsing import vdmFormatDict
 
 if __name__ == "__main__":
     HOST = ''  # Symbolic name, meaning all available interfaces
@@ -37,7 +38,7 @@ if __name__ == "__main__":
             while 1:
                 start = time.time()
                 conn.send(bytes.fromhex(hex))
-                dict, doc_link = readAzureLevelDict()
+                doc, doc_link = readAzureLevelDict()
                 regexMatch = ""
                 out = []
                 try:
@@ -49,7 +50,7 @@ if __name__ == "__main__":
                     pass
                 print(out)
                 if len(out) == 40:
-                    dateTimeStamp = datetime.datetime.now()
+                    dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
                     range = out[-6:-4]
                     temperature = out[-4]
                     voltage = out[-3]
@@ -58,13 +59,18 @@ if __name__ == "__main__":
                     levelValue = 28 - rangeValue
                     temperatureValue = ord(temperature)
                     voltageValue = ord(voltage)
-                    block = {"Level": str(levelValue), "Temperature": str(temperatureValue),
-                             "Voltage": str(voltageValue), "datetime": dateTimeStamp.strftime("%Y-%m-%dT%H:%M:%S")}
-                    for x in block:
-                        print(x + ": " + block[x])
-                    dict["Blocks"].append(block)
 
-                    replaceAzureDict(dict, doc_link)
+                    dict = vdmFormatDict()
+                    dict["Desc"] = "Ultrasonic level sensor data"
+                    dict["CreateUtc"] = dateTimeStamp
+                    dict["Unit"] = "object"
+                    dict["Value"] = {"Level": str(levelValue), "Temperature": str(temperatureValue),
+                             "Voltage": str(voltageValue)}
+
+                    print(dict)
+                    doc["Blocks"].extend(dict)
+
+                    replaceAzureDict(doc, doc_link)
                     while time.time() - start < 900:  # get data every 15 minutes = 900 seconds
                         pass
                 else:

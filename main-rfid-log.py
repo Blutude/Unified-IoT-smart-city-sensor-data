@@ -1,5 +1,5 @@
 import socket
-from SocketWrapper import make_socket_rfid_log
+from SocketWrapper import SocketRFIDLog
 from Parsing import *
 from IO_Azure import *
 
@@ -16,7 +16,7 @@ def connection(address, port):
 
         isConnected = True
 
-    mySocket = make_socket_rfid_log(sock, address, port)
+    mySocket = SocketRFIDLog(sock, address, port)
     print("Sock: ({},{}) connected".format(address, port))
     return mySocket
 
@@ -33,7 +33,7 @@ if __name__ == "__main__":
             freshStart = True
 
         connected = True
-        mySocket.dict, doc_link = readAzureLogDict()
+        mySocket.dict, doc_link = readAzureRFIDLogDict()
         interrupted = extractRFIDLog(mySocket, freshStart)
         freshStart = False
         if interrupted:

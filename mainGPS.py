@@ -7,6 +7,7 @@ import datetime
 import getpass
 import sys
 import telnetlib
+from Parsing import vdmFormatDict
 
 
 if __name__ == "__main__":
@@ -34,9 +35,9 @@ if __name__ == "__main__":
     while True:
         try:
             data, addr = s.recvfrom(1024)
-            dateTimeStamp = datetime.datetime.now()
+            dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             print(str(data))
-            dict, doc_link = readAzureGPSDict()
+            doc, doc_link = readAzureGPSDict()
             data = re.match(".*\$GPGGA(.*)\*.*\*", str(data)).group(1)
             data = data.split(',')
             time = data[1]
@@ -48,23 +49,16 @@ if __name__ == "__main__":
             altitude = data[9] + ',' + data[10]
             heightOfGeoID = data[11] + ',' + data[12]
 
-            block = {"time": str(time), "latitude": str(latitude),
-                     "longitude": str(longitude), "fixQuality": str(fixQuality), "satellitesNb": str(satellitesNb), "horizontalDilution": str(horizontalDilution), "altitude": str(altitude), "heightOfGeoID": str(heightOfGeoID), "datetime": dateTimeStamp.strftime("%Y-%m-%dT%H:%M:%S")}
+            dict = vdmFormatDict()
+            dict["Desc"] = "GPS fix data"
+            dict["CreateUtc"] = dateTimeStamp
+            dict["Unit"] = "object"
+            dict["Value"] = {"TimeStamp": str(time), "Latitude": str(latitude), "Longitude": str(longitude)}
 
-            timeSinceLastDGPSUpdate = "-"
-            DGPSStationIDNumber = "-"
-            if data[13]:
-                timeSinceLastDGPSUpdate = str(data[13])
-                block.update({"timeSinceLastDGPSUpdate":timeSinceLastDGPSUpdate})
-            if data[14]:
-                DGPSStationIDNumber = str(data[14])
-                block.update({"DGPSStationIDNumber": DGPSStationIDNumber})
+            print(dict)
+            doc["Blocks"].extend(dict)
 
-            for x in block:
-                print(x + ": " + block[x])
-            dict["Blocks"].append(block)
-
-            replaceAzureDict(dict, doc_link)
+            replaceAzureDict(doc, doc_link)
         except Exception as e:
             print(str(e))
     s.close()

@@ -10,8 +10,8 @@ from socket import timeout
 from Constants import Constants
 
 def vdmFormatDict():
-    dict = {"Format":"ODNF1", "Desc":"", "CreateUTC":"",
-            "ExpireUTC": "0000-00-00T00:00:00", "Unit":"", "Status":"", "Value": ""}
+    dict = {"Format":"ODNF1", "Desc":"", "CreateUtc":"",
+            "ExpireUtc": "0000-00-00T00:00:00", "Unit":"", "Status":"", "Value": ""}
     return dict
 
 def readRadarSocket(sock):
@@ -47,7 +47,7 @@ def extractRadar(mySocket): # returns true if was interrupted
 
         if out.startswith("$RDTGT"):
             if len(out) > 6: # Target not empty
-                datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+                dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
                 t = out.split(',')
                 targets = []
                 for i in range(1, len(t), 3):
@@ -56,7 +56,7 @@ def extractRadar(mySocket): # returns true if was interrupted
                 for tgt in targets:
                     dict = vdmFormatDict()
                     dict["Desc"] = "Detected target report"
-                    dict["CreateUTC"] = datetime
+                    dict["CreateUtc"] = dateTimeStamp
                     dict["Unit"] = "object"
                     if tgt.D == "1":
                         dir = "Approaching"
@@ -67,10 +67,10 @@ def extractRadar(mySocket): # returns true if was interrupted
 
         elif out.startswith("$RDSTA"):
             s = out.split(',')
-            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             dict = vdmFormatDict()
             dict["Desc"] = "Approaching target statistics report"
-            dict["CreateUTC"] = datetime
+            dict["CreateUtc"] = dateTimeStamp
             dict["Unit"] = "object"
             dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4], "Road occupation percentage": s[5],
                       "Temporary counter": s[6]}}
@@ -78,10 +78,10 @@ def extractRadar(mySocket): # returns true if was interrupted
 
         elif out.startswith("$RDSTR"):
             s = out.split(',')
-            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             dict = vdmFormatDict()
             dict["Desc"] = "Receding target statistics report"
-            dict["CreateUTC"] = datetime
+            dict["CreateUtc"] = dateTimeStamp
             dict["Unit"] = "object"
             dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4],
                               "Road occupation percentage": s[5],
@@ -90,10 +90,10 @@ def extractRadar(mySocket): # returns true if was interrupted
 
         elif out.startswith("$RDCNT"):
             s = out.split(',')
-            datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+            dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             dict = vdmFormatDict()
             dict["Desc"] = "Targets count report"
-            dict["CreateUTC"] = datetime
+            dict["CreateUtc"] = dateTimeStamp
             dict["Unit"] = "object"
             dict["Value"] = {"Direction": s[1], "Speed": s[2], "Detection level": s[3], "Cumulative counter for approaching targets": s[4],
                               "Cumulative counter for receding targets": s[5]}
@@ -140,15 +140,20 @@ def extractRFIDLog(mySocket, freshStart): # returns true if was interrupted
     if not mySocket:
         return True
 
-    sizeLimit = False
-
     try:
         uid,time,antennaNb = readRFIDSocket(mySocket.sock, freshStart)
     except ConnectionResetError:
         print("Connection to socket was forcibly closed by the remote host.")
         return True
 
-    mySocket.dict["Blocks"].append({"uid": uid, "time": time, "antennaNb": antennaNb})
+    dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    dict = vdmFormatDict()
+    dict["Desc"] = "RFID scan"
+    dict["CreateUtc"] = dateTimeStamp
+    dict["Unit"] = "object"
+    dict["Status"] = "bad" # time is not valid - issue
+    dict["Value"] = {"UID": uid, "Time": time, "Antenna number": antennaNb}
+    mySocket.dict["Blocks"].extend(dict)
 
     print("uid: " + uid + " - time: " + time + " - antenna#: " + antennaNb)
 
@@ -170,17 +175,25 @@ def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
         print("Connection to socket was forcible closed by the remote host.")
         return True
 
+    dateTimeStamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     uidFound = False
     for block in mySocket.dict["Blocks"]:
-        if block["uid"] == uid:
+        value = block["Value"]
+        if value["UID"] == uid:
             uidFound = True
-            if block["state"] == "0":
-                block["state"] = "1"
+            if value["State"] == "0":
+                value["State"] = "1"
             else:
-                block["state"] = "0"
+                value["State"] = "0"
 
     if not uidFound:
-        mySocket.dict["Blocks"].append({"uid": uid, "state":"0"})
+        dict = vdmFormatDict()
+        dict["Desc"] = "UID state"
+        dict["CreateUtc"] = dateTimeStamp
+        dict["Unit"] = "object"
+        dict["Status"] = ""
+        dict["Value"] = {"UID": uid, "State": "0"}
+        mySocket.dict["Blocks"].extend(dict)
 
     print("uid: " + uid + " - time: " + myTime + " - antenna#: " + antennaNb)
 
@@ -188,4 +201,4 @@ def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
 
 def resetUidStates(mySocket):
     for block in mySocket.dict["Blocks"]:
-        block["state"] = "0"
+        block["Value"]["State"] = "0"
