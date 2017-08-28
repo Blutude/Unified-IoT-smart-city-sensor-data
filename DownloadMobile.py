@@ -6,8 +6,7 @@ import re
 
 
 graphMenu = {"1":("Salt ultrasonic level graph",levelGraph),
-        "2":("Air temperature graph",airTempGraph),
-        "3":("Road temperature graph",roadTempGraph)
+        "2":("Temperature graph",tempGraph),
        }
 print("Which type of graph do you want to save?")
 for key in sorted(graphMenu.keys()):

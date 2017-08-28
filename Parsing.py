@@ -63,7 +63,7 @@ def extractRadar(mySocket): # returns true if was interrupted
                     else:
                         dir = "Receding"
                     dict["Value"] = {"Direction": dir, "Speed": tgt.S, "Detection level": tgt.L}
-                    mySocket.dict["Blocks"].extend(dict)
+                    mySocket.dict["Blocks"].append(dict)
 
         elif out.startswith("$RDSTA"):
             s = out.split(',')
@@ -72,9 +72,9 @@ def extractRadar(mySocket): # returns true if was interrupted
             dict["Desc"] = "Approaching target statistics report"
             dict["CreateUtc"] = dateTimeStamp
             dict["Unit"] = "object"
-            dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4], "Road occupation percentage": s[5],
-                      "Temporary counter": s[6]}}
-            mySocket.dict["Blocks"].extend(dict)
+            dict["Value"] = {"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4], "Road occupation percentage": s[5],
+                      "Temporary counter": s[6]}
+            mySocket.dict["Blocks"].append(dict)
 
         elif out.startswith("$RDSTR"):
             s = out.split(',')
@@ -83,10 +83,10 @@ def extractRadar(mySocket): # returns true if was interrupted
             dict["Desc"] = "Receding target statistics report"
             dict["CreateUtc"] = dateTimeStamp
             dict["Unit"] = "object"
-            dict["Value"] = {{"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4],
+            dict["Value"] = {"Timeslot counter": s[1], "Average speed": s[2], "Min speed": s[3], "Max speed": s[4],
                               "Road occupation percentage": s[5],
-                              "Temporary counter": s[6]}}
-            mySocket.dict["Blocks"].extend(dict)
+                              "Temporary counter": s[6]}
+            mySocket.dict["Blocks"].append(dict)
 
         elif out.startswith("$RDCNT"):
             s = out.split(',')
@@ -97,7 +97,7 @@ def extractRadar(mySocket): # returns true if was interrupted
             dict["Unit"] = "object"
             dict["Value"] = {"Direction": s[1], "Speed": s[2], "Detection level": s[3], "Cumulative counter for approaching targets": s[4],
                               "Cumulative counter for receding targets": s[5]}
-            mySocket.dict["Blocks"].extend(dict)
+            mySocket.dict["Blocks"].append(dict)
 
         else:
             raise ValueError("Missed a type of report?")
@@ -153,7 +153,7 @@ def extractRFIDLog(mySocket, freshStart): # returns true if was interrupted
     dict["Unit"] = "object"
     dict["Status"] = "bad" # time is not valid - issue
     dict["Value"] = {"UID": uid, "Time": time, "Antenna number": antennaNb}
-    mySocket.dict["Blocks"].extend(dict)
+    mySocket.dict["Blocks"].append(dict)
 
     print("uid: " + uid + " - time: " + time + " - antenna#: " + antennaNb)
 
@@ -193,7 +193,7 @@ def extractRFIDState(mySocket, freshStart): # returns true if was interrupted
         dict["Unit"] = "object"
         dict["Status"] = ""
         dict["Value"] = {"UID": uid, "State": "0"}
-        mySocket.dict["Blocks"].extend(dict)
+        mySocket.dict["Blocks"].append(dict)
 
     print("uid: " + uid + " - time: " + myTime + " - antenna#: " + antennaNb)
 

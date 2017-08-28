@@ -75,7 +75,7 @@ if __name__ == "__main__":
                              "Voltage": str(voltageValue)}
 
                     print(dict)
-                    doc["Blocks"].extend(dict)
+                    doc["Blocks"].append(dict)
 
                     replaceAzureDict(doc, doc_link)
                     while time.time() - start < 900:  # get data every 15 minutes = 900 seconds

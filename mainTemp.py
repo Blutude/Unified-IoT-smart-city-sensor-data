@@ -62,7 +62,7 @@ if __name__ == "__main__":
                 dict["Value"] = {"Air Temp": airTemp, "Road Temp": roadTemp}
                 print(dict)
 
-                doc["Blocks"].extend(dict)
+                doc["Blocks"].append(dict)
                 replaceAzureDict(doc, doc_link)
                 while time.time() - start < 900: # get data every 15 minutes = 900 seconds
                     pass

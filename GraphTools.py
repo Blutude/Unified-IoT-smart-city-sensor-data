@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import re
 from operator import itemgetter
 import datetime as dt
+import IO_Azure
 
 def speedHistogram(dict, date, deviceID):
     speeds = [0,0,0,0,0,0,0,0,0,0,0,0,0] # 0-10, 10-20, 20-30, ..., 110-120, 120+
@@ -87,6 +88,7 @@ def timeOfDayHistogram(dict, date, deviceID):
     plt.savefig(fileName)
     return fileName
 
+######################### Not used in DownloadMobile but kept here in case air and road temp need to be graphed separately.
 def airTempGraph(dict, date):
     sortedDict = sorted(dict, key=itemgetter('CreateUtc'))
 
@@ -106,6 +108,8 @@ def airTempGraph(dict, date):
 
     plt.plot(times_list, airTempValues)
     plt.gcf().autofmt_xdate()
+    axes = plt.gca()
+    axes.set_ylim([-40, 70])
 
     fileName = 'Air Temperature - ' + date + '.png'
     plt.savefig(fileName)
@@ -131,8 +135,42 @@ def roadTempGraph(dict, date):
 
     plt.plot(times_list, roadTempValues)
     plt.gcf().autofmt_xdate()
+    axes = plt.gca()
+    axes.set_ylim([-40, 70])
 
     fileName = 'Road Temperature - ' + date + '.png'
+    plt.savefig(fileName)
+    plt.show()
+    return fileName
+##############################
+
+def tempGraph(dict, date):
+    sortedDict = sorted(dict, key=itemgetter('CreateUtc'))
+
+    datetimes = []
+    for block in sortedDict:
+        datetimes.append(block["CreateUtc"])
+    times_list = [dt.datetime.strptime(date, '%Y-%m-%dT%H:%M:%S').time() for date in datetimes]
+
+    roadTempValues = []
+    airTempValues = []
+    for block in sortedDict:
+        roadTempValues.append(block["Value"]["Road Temp"])
+        airTempValues.append(block["Value"]["Air Temp"])
+
+    plt.figure(figsize=(20, 10))
+    plt.title("Temperature data - " + date)
+    plt.xlabel("Time")
+    plt.ylabel("Temperature (°C)")
+
+    plt.plot(times_list, roadTempValues, label='Road Temperature')
+    plt.plot(times_list, airTempValues, label='Air Temperature')
+    plt.gcf().autofmt_xdate()
+    plt.legend()
+    axes = plt.gca()
+    axes.set_ylim([-40, 70])
+
+    fileName = 'Temperature data - ' + date + '.png'
     plt.savefig(fileName)
     plt.show()
     return fileName
@@ -143,19 +181,21 @@ def levelGraph(dict, date):
     datetimes = []
     for block in sortedDict:
         datetimes.append(block["CreateUtc"])
-    times_list = [dt.datetime.strptime(date, '%Y-%m-%dT%H:%M:%S').time() for date in datetimes]
+    times_list = [dt.datetime.strptime(d, '%Y-%m-%dT%H:%M:%S').time() for d in datetimes]
 
-    airTempValues = []
+    levelValues = []
     for block in sortedDict:
-        airTempValues.append(block["Value"]["Level"])
+        levelValues.append(block["Value"]["Level"])
 
     plt.figure(figsize=(20, 10))
     plt.title("Ultra Sound Salt Level - " + date)
     plt.xlabel("Time")
     plt.ylabel("Level (in)")
 
-    plt.plot(times_list, airTempValues)
+    plt.plot(times_list, levelValues)
     plt.gcf().autofmt_xdate()
+    axes = plt.gca()
+    axes.set_ylim([0, 28])
 
     fileName = 'Ultra Sound Salt Level - ' + date + '.png'
     plt.savefig(fileName)

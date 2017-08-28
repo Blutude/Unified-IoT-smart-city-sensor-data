@@ -56,7 +56,7 @@ if __name__ == "__main__":
             dict["Value"] = {"TimeStamp": str(time), "Latitude": str(latitude), "Longitude": str(longitude)}
 
             print(dict)
-            doc["Blocks"].extend(dict)
+            doc["Blocks"].append(dict)
 
             replaceAzureDict(doc, doc_link)
         except Exception as e:

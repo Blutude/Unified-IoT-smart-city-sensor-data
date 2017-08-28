@@ -4,7 +4,7 @@ def readDayAzureRadars(id, date):
     client = getCosmosDBClient()
     coll_link = getCosmosDBColl_link()
 
-    query = {'query': 'SELECT VALUE Block FROM c JOIN Block IN c.Blocks WHERE c.deviceID = \"' + id + '\" AND Block.Desc = "Targets count report" AND Block.CreateUtc >= \"' + date + '\" AND Block.CreateUtc < \"' + date + " 99:99:99" + '\"'}
+    query = {'query': 'SELECT VALUE Block FROM c JOIN Block IN c.Blocks WHERE c.deviceID = \"' + id + '\" AND Block[\"Desc\"] = "Targets count report" AND Block.CreateUtc >= \"' + date + '\" AND Block.CreateUtc < \"' + date + "T99:99:99" + '\"'}
 
     options = {}
     options['enableCrossPartitionQuery'] = True
