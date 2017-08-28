@@ -4,16 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/IO_Azure.py" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4778dc1-f845-4bc1-b3d8-4a17218a0cd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DownloadMobile.py" afterPath="$PROJECT_DIR$/DownloadMobile.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphTools.py" afterPath="$PROJECT_DIR$/GraphTools.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO_Azure.py" afterPath="$PROJECT_DIR$/IO_Azure.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parsing.py" afterPath="$PROJECT_DIR$/Parsing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/errors.txt" afterPath="$PROJECT_DIR$/errors.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainGPS.py" afterPath="$PROJECT_DIR$/mainGPS.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainLevel.py" afterPath="$PROJECT_DIR$/mainLevel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainTemp.py" afterPath="$PROJECT_DIR$/mainTemp.py" />
-    </list>
+    <list default="true" id="d4778dc1-f845-4bc1-b3d8-4a17218a0cd7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
